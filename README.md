@@ -1,4 +1,6 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_app_black_white.svg)](https://document-comparator-bzyesvqbvuwgmdr5rkbat4.streamlit.app/)
+###  Live Demo
+
+[Try the Document Comparator App](https://document-comparator-bzyesvqbvuwgmdr5rkbat4.streamlit.app/)
 
 # 📝 Document Comparator
 

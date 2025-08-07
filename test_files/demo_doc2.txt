@@ -1,0 +1,2 @@
+Artificial Intelligence refers to the development of computer systems capable of performing tasks that normally require human intelligence. 
+From medical diagnosis to self-driving cars, AI is revolutionizing every sector by enabling machines to learn and adapt.
